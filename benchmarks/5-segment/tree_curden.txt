@@ -1,0 +1,5 @@
+seg1, curden = -2e10
+seg2, curden = 1e10
+seg3, curden = 1.5e10
+seg4, curden = -1e10
+seg5, curden = 0.5e10
