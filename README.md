@@ -32,6 +32,8 @@ The input files in order to execute the tool as standalone are:
 
 ## How to run
 
+This tool was developed using MATLAB R2021a. 
+
 ### Tool as standalone
 
 In order to use the tool as standalone, and calculate the EM stress at a specific time, one has to: 
