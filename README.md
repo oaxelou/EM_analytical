@@ -3,7 +3,7 @@ A matlab tool that analytically calculates the transient Electromigration (EM) s
 
 If you use any part of this project, please cite:
 
-Olympia Axelou, Nestor Evmorfopoulos, George Floros, George Stamoulis, Sachin Sapatnekar. 2022. A Novel Semi-Analytical Approach for Fast Electromigration Stress Analysis in Multi-Segment Interconnects. In *Proceedings of 2022 IEEE/ACM International Conference On Computer Aided Design (ICCAD).* ACM, San Diego, CA, USA, **X** pages. **DOI LINK**.
+Olympia Axelou, Nestor Evmorfopoulos, George Floros, George Stamoulis, Sachin Sapatnekar. 2022. A Novel Semi-Analytical Approach for Fast Electromigration Stress Analysis in Multi-Segment Interconnects. In *Proceedings of 2022 IEEE/ACM International Conference On Computer Aided Design (ICCAD).* ACM, San Diego, CA, USA.
 
 ## Guideline to use EM_analytical
 
